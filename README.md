@@ -1,7 +1,6 @@
-# 🔥Pixel_Planters_047🍁
-
 # 🎧Spotify Data Analytics Dashboard 🚀
 
+##  🍁Pixel_Planters_047🔥
 
 ### 📍Our Dashboard Home Page will Look Like this :🌄
 ![image](https://github.com/user-attachments/assets/a8e5ae1e-b89b-4e98-9e57-effe8d2f06c5)
