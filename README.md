@@ -1,2 +1,4 @@
-# Pixel_Planters_047
-SQL Project __Pixel Planters_047__ Repo .
+# Pixel_Planters_047🍁
+# 🎧Spotify Data Analytics Dashboard 🚀
+🎧🎼🎵🎶🎻🎻🌄🍁🔥🖇️🖇️📍📖
+
