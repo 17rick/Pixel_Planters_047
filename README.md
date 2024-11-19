@@ -1,7 +1,7 @@
 # 🎧Spotify Data Analytics Dashboard 🚀
 ##  🍁Pixel_Planters_047🔥
 #### 🚀The Purpose of this project -> 🔥
-*🎆The purpose of the project is to analyze 🦚 factors that influence the popularity of songs🎼, including genre, duration, and explicit content💡. It aims to identify trends📈 in song releases over time and examine patterns 📊in artist performance🔥 and audience preferences🥀. The goal🚀 is to provide actionable insights for artists📖, producers, and marketer💹s to help them optimize content creation 🌟 and develop effective audience engagement strategies.🚀*
+*🎆The purpose of the project is to analyze 🦚 factors that influence the popularity of songs🎼, including genre, duration, and explicit content💡. It aims to identify trends📈 in song releases over time and examine patterns 📊in artist performance🔥 and audience preferences🥀. The goal🚀 is to provide actionable insights for artists📖, producers, and marketers💹 to help them optimize content creation 🌟 and develop effective audience engagement strategies.🚀*
 
 
 ### 📍Our Dashboard Home Page will Look Like this:🌄
